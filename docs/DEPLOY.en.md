@@ -402,8 +402,12 @@ Or step by step:
 
 ```bash
 cd webui
+# npm
 npm install
 npm run build
+# or pnpm
+pnpm install
+pnpm run build
 # Output goes to static/admin/
 ```
 

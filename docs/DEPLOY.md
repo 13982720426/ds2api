@@ -412,8 +412,12 @@ go run ./cmd/ds2api
 
 ```bash
 cd webui
+# npm
 npm install
 npm run build
+# 或 pnpm
+pnpm install
+pnpm run build
 # 产物输出到 static/admin/
 ```
 
