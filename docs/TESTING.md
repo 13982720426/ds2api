@@ -32,8 +32,8 @@ Node 单元测试脚本会先做 `node --check` 语法门禁，再以 `--test-co
 # 从仓库根目录
 npm run build --prefix webui
 
-# 或在 webui 目录下 
-npm run build 
+# 或在 webui 目录下
+npm run build
 # 或
 pnpm run build
 ```

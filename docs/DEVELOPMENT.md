@@ -16,7 +16,7 @@ go run ./cmd/ds2api
 # 从仓库根目录
 npm run dev --prefix webui
 # 或在 webui 目录下
-npm run dev 
+npm run dev
 # 或
 pnpm run dev
 
@@ -24,7 +24,7 @@ pnpm run dev
 # 从仓库根目录
 npm run build --prefix webui
 # 或在 webui 目录下
-npm run build 
+npm run build
 # 或
 pnpm run build
 ```
@@ -38,7 +38,7 @@ PR 前固定门禁：
 # 从仓库根目录
 npm run build --prefix webui
 # 或在 webui 目录下
-npm run build 
+npm run build
 # 或
 pnpm run build
 ```

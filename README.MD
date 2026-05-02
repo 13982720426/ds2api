@@ -420,8 +420,8 @@ go run ./cmd/ds2api
 # 从仓库根目录
 npm run build --prefix webui
 # 或在 webui 目录下
-npm run build 
-# 或 
+npm run build
+# 或
 pnpm run build
 
 # 端到端全链路测试（真实账号，生成完整请求/响应日志）
