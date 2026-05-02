@@ -37,7 +37,7 @@ cd webui
 
 # 2. Install dependencies
 # npm
-npm install
+npm ci
 # or pnpm
 pnpm install
 

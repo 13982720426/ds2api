@@ -37,7 +37,7 @@ cd webui
 
 # 2. 安装依赖
 # npm
-npm install
+npm ci
 # 或 pnpm
 pnpm install
 
